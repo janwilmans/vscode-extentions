@@ -33,9 +33,11 @@ ext install copperspice.csdesigner-plugin
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+### 0.0.4
 
 Initial release of csdesigner-plugin
+
+## known issues: only tested on windows 10 so far, you milage may vary
 
 -----------------------------------------------------------------------------------------------------------
 
